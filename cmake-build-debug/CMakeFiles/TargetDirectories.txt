@@ -1,0 +1,3 @@
+/Users/liang/cpp/multi-body/cmake-build-debug/CMakeFiles/multi_body.dir
+/Users/liang/cpp/multi-body/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/liang/cpp/multi-body/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/liang/cpp/multi-body/build/CMakeFiles/multi_body.dir
+/Users/liang/cpp/multi-body/build/CMakeFiles/edit_cache.dir
+/Users/liang/cpp/multi-body/build/CMakeFiles/rebuild_cache.dir

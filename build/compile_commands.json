@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/liang/cpp/multi-body/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/eigen3 -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/multi_body.dir/main.cpp.o -c /Users/liang/cpp/multi-body/main.cpp",
+  "file": "/Users/liang/cpp/multi-body/main.cpp",
+  "output": "CMakeFiles/multi_body.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/liang/cpp/multi-body/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/eigen3 -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/multi_body.dir/system.cpp.o -c /Users/liang/cpp/multi-body/system.cpp",
+  "file": "/Users/liang/cpp/multi-body/system.cpp",
+  "output": "CMakeFiles/multi_body.dir/system.cpp.o"
+},
+{
+  "directory": "/Users/liang/cpp/multi-body/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/eigen3 -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/multi_body.dir/rendering.cpp.o -c /Users/liang/cpp/multi-body/rendering.cpp",
+  "file": "/Users/liang/cpp/multi-body/rendering.cpp",
+  "output": "CMakeFiles/multi_body.dir/rendering.cpp.o"
+},
+{
+  "directory": "/Users/liang/cpp/multi-body/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include/eigen3 -isystem /opt/homebrew/Cellar/opencv/4.9.0_5/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/multi_body.dir/gui.cpp.o -c /Users/liang/cpp/multi-body/gui.cpp",
+  "file": "/Users/liang/cpp/multi-body/gui.cpp",
+  "output": "CMakeFiles/multi_body.dir/gui.cpp.o"
+}
+]
